@@ -1,0 +1,15 @@
+{
+  "name": "face_expression",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "face-api.min.js": "^0.20.1"
+  }
+}
